@@ -1,0 +1,1 @@
+metoda createServer() tworzy serwer i zwraca jego obiekt, który nasłuchuje na określonym porcie. Server.on nasłuchuje zdarzenia. W tym przypadku wywołujemy zdarzenie 'connection', gdy ktoś nawiąże połaczenie z serwerem.
